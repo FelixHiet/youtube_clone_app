@@ -1,7 +1,8 @@
 # Youtube clone app
 Project uses React, material-ui, rapid api and axios.
 
-## Front page
+
+### Front page
 ![youtube_clone](https://user-images.githubusercontent.com/49163212/190618694-9232784d-f181-4aee-bc90-0fd5b57e2da1.jpg)
 
 ![youtube1](https://user-images.githubusercontent.com/49163212/190969491-cc71bb02-440d-401f-9099-aa7d9ebc1326.jpg)
