@@ -1,3 +1,11 @@
+# Youtube clone app
+Not yet finished project. Project uses React, rapid api and axios.
+
+![youtube_clone](https://user-images.githubusercontent.com/49163212/190618694-9232784d-f181-4aee-bc90-0fd5b57e2da1.jpg)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
