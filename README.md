@@ -2,8 +2,8 @@
 This project uses React, material-ui, rapid api and axios. Some project pictures down below.
   
   
-
-
+  
+  
 ### Front page:
 ![youtube_clone](https://user-images.githubusercontent.com/49163212/190618694-9232784d-f181-4aee-bc90-0fd5b57e2da1.jpg)
 
