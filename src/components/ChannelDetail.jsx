@@ -27,7 +27,7 @@ const ChannelDetail = () => {
           style={{
             height: "300px",
             background:
-              "linear-gradient(90deg, rgba(0,238,247,1) 0%, rgba(206,3,184,1) 100%, rgba(0,212,255,1) 100%)",
+              "linear-gradient(90deg, rgba(42,22,22,1) 0%, rgba(185,45,45,1) 48%, rgba(37,20,20,1) 100%)",
             zIndex: 10,
           }}
         />
@@ -43,3 +43,8 @@ const ChannelDetail = () => {
 };
 
 export default ChannelDetail;
+
+// original gradient:
+// background:"linear-gradient(90deg, rgba(0,238,247,1) 0%, rgba(206,3,184,1) 100%, rgba(0,212,255,1) 100%)"
+//
+// gradient maker: https://cssgradient.io/
