@@ -1,5 +1,7 @@
 # Youtube clone app
-Project uses React, material-ui, rapid api and axios.
+This project uses React, material-ui, rapid api and axios. Some project pictures down below.
+
+
 
 
 ### Front page:
